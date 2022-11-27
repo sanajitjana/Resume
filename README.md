@@ -1,2 +1,3 @@
 # Resume
-![Sanajit-Jana-Resume](https://user-images.githubusercontent.com/76105799/200764575-000d0b99-7ba7-409a-83ae-b697b9539446.png)
+
+![Sanajit-Jana-Resume](https://user-images.githubusercontent.com/76105799/204148650-cf3fe2c9-777b-499e-83c0-33aee8483f68.png)
